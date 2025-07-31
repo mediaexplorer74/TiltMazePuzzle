@@ -16,7 +16,7 @@ It runs on Win 10 Mobile, and Win 10 Desktop (because UWP app). Random enemy gen
 - sample game app
 - language: csharp
 - framework: xamarin forms
-- features: gyroscope support; random labiryth/enemy generation
+- features: gyroscope support; random labirynth generation
 
 ## Status
 Experimenting with kbd control (I added it via AI... but no results yet!)
